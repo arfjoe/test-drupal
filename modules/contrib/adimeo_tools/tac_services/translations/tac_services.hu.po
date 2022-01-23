@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Szia! Ez a webhely átlátható, és lehetővé teszi a kívánt harmadik fél szolgáltatásainak kiválasztását"
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "A testreszabás megkezdéséhez állítsd le az adblockert, kérlek."
+
+msgid "Refresh the page"
+msgstr "Oldal frissítése"
+
+msgid "By continuing to scroll,"
+msgstr "A görgetés folytatásával,"
+
+msgid "If you continue to browse this website,"
+msgstr "Ha folytatod a böngészést ezen oldalon,"
+
+msgid "you are allowing all third-party services"
+msgstr "engedélyezed a harmadik fél összes szolgáltatását."
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "A webhely tartalmának megjelenítéséhez és a felhasználói élmény javításához cookie-kat használunk"
+
+msgid "Manage services"
+msgstr "Szolgáltatások kezelése"
+
+msgid "Personalize"
+msgstr "Beállítások"
+
+msgid "OK, accept all"
+msgstr "OK, elfogadom"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "Privacy policy"
+msgstr "Adatvédelmi irányelvek"
+
+msgid "Preference for all services"
+msgstr "Összes szolgáltatás előnyben részesítése"
+
+msgid "Protecting your privacy"
+msgstr "Személyi adataid védelme"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "A harmadik fél szolgáltatásainak engedélyezésével elfogadja a sütiket és a megfelelő működésükhöz szükséges nyomkövetési technológiák használatát."
+
+msgid "Allow"
+msgstr "Elfogadom"
+
+msgid "Deny"
+msgstr "Elutasítom"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Ez a szolgáltatás telepíthető"
+
+msgid "This service has installed"
+msgstr "Ez a szolgáltatás telepített"
+
+msgid "This service has not installed any cookie."
+msgstr "Ez a szolgáltatás nem telepített sütiket"
+
+msgid "Read more"
+msgstr "Olvass többet"
+
+msgid "View the official website"
+msgstr "Tekintsd meg a hivatalos weboldalt"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Cookie-kezelő: tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "Ez a weboldal nem használ olyan sütiket, amelyekhez a beleegyezésed szükséges."
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Információk megjelenítése / elrejtése a süti-tárolással kapcsolatban"
+
+msgid "Cookies management panel"
+msgstr "Süti preferenciák"
+
+msgid "Cookie detail for"
+msgstr "Süti adatok a következőhöz:"
+
+msgid "on our site"
+msgstr "weboldalunkon"
+
+msgid "(new window)"
+msgstr "(új ablak)"
+
+msgid "Allow all cookies"
+msgstr "Elfogadom az öszeset"
+
+msgid "Deny all cookies"
+msgstr "Elutasítom"
+
+msgid "is disabled."
+msgstr "letiltott."
+
+msgid "Advertising network"
+msgstr "Reklámhálózat"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "A hirdetési hálózatok bevételt teremthetnek azáltal, hogy értékesítik a webhelyen található hirdetési felületet"
+
+msgid "Audience measurement"
+msgstr "Közönségmérés"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "A közönségmérési szolgáltatások hasznos statisztikai adatokat generáltak a webhely fejlesztése érdekében."
+
+msgid "Social networks"
+msgstr "Közösségi hálózatok"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "A közösségi hálózatok javíthatják a webhely használhatóságát, és elősegíthetik annak promoválását a megosztások révén."
+
+msgid "Videos"
+msgstr "Videók"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "A videomegosztó szolgáltatások hozzájárulnak hasznos multimédiához a webhelyen és növelik annak láthatóságát."
+
+msgid "Comments"
+msgstr "Kommentek"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "A megjegyzésfigyelők megkönnyítik a megjegyzések kitöltését és a spam elleni küzdelmet."
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "A támogatási szolgáltatások lehetővé teszik, hogy kapcsolatba lépjen a webhely csapatával, és segítsen annak fejlesztésében."
+
+msgid "APIs"
+msgstr "APIk"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "Az API-kat a szkriptek betöltésére használják: földrajzi helymeghatározás, keresőmotorok, fordítások..."
+
+msgid "Other"
+msgstr "Más"
+
+msgid "Services to display web content."
+msgstr "Szolgáltatások webtartalom megjelenítésére."
+
+msgid "Mandatory cookies"
+msgstr "Kötelező sütik"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "A webhely tartalmának megjelenítéséhez és a felhasználói bejelentkezéshez sütiket használunk amiket nem lehet kikapcsolni."

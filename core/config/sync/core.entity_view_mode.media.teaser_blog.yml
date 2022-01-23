@@ -1,0 +1,10 @@
+uuid: ad03e021-d6fa-49c6-9637-afc2e0360c12
+langcode: fr
+status: true
+dependencies:
+  module:
+    - media
+id: media.teaser_blog
+label: 'Teaser blog'
+targetEntityType: media
+cache: true

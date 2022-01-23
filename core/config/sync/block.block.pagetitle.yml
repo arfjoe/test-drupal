@@ -1,0 +1,18 @@
+uuid: 2925748b-bd8f-4030-86ac-944f02ff162c
+langcode: fr
+status: true
+dependencies:
+  theme:
+    - admin_custom
+id: pagetitle
+theme: admin_custom
+region: header
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

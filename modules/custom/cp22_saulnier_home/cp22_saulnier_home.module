@@ -1,0 +1,28 @@
+<?php
+
+use Drupal\cp22_saulnier_home\Controller\FrontPageController;
+use Drupal\cp22_saulnier_home\Manager\HomeManager;
+use Drupal\Core\Routing\RouteMatchInterface;
+use Drupal\adimeo_tools\Service\LanguageService;
+
+/**
+ * Implements hook_metatag_route_entity().
+ *
+ * @param \Drupal\Core\Routing\RouteMatchInterface $route_match
+ *
+ * @return mixed
+ */
+function cp22_saulnier_home_metatag_route_entity (RouteMatchInterface $route_match) {
+  $routeName = $route_match->getRouteName();
+  if ($routeName == FrontPageController::ROUTE_NAME) {
+    $homeManager = HomeManager::me();
+    $homeId = $homeManager->getFrontPageNodeId();
+    if (!empty($homeId)) {
+      $languageService = LanguageService::me();
+      $homeNode = $languageService->load('node', $homeId);
+      if (!empty($homeNode)) {
+        return $homeNode;
+      }
+    }
+  }
+}

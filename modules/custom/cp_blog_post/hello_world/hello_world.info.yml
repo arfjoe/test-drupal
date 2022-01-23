@@ -1,0 +1,5 @@
+name: Hello World
+description: Module de test
+type: module
+core_version_requirement: ^9
+

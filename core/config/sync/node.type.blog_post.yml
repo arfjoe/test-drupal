@@ -1,0 +1,17 @@
+uuid: a746bdc1-0bac-4c06-a66a-705e4b05124c
+langcode: fr
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Billet de blog'
+type: blog_post
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

@@ -1,0 +1,35 @@
+# Actualités
+cp22_saulnier_news.news:
+  title: "Pages actualités"
+  parent: contrib
+  menu_name: contrib
+  route_name: '<nolink>'
+  weight: 2
+cp22_saulnier_news.news.edit:
+  title: "Voir la liste"
+  parent: cp22_saulnier_news.news
+  menu_name: contrib
+  url: internal:/admin/content
+  options:
+    query:
+      type[0]: 'news'
+  weight: 0
+cp22_saulnier_news.news.add:
+  title: "Ajouter une Actualité"
+  parent: cp22_saulnier_news.news
+  menu_name: contrib
+  url: internal:/node/add/news
+  weight: 1
+cp22_saulnier_news.news.list:
+  title: "Modifier la page de liste"
+  parent: cp22_saulnier_news.news
+  menu_name: contrib
+  route_name: bo_additions.node_edit
+  options:
+    query:
+      type: 'news_list'
+      status: '1'
+  weight: 2
+
+
+

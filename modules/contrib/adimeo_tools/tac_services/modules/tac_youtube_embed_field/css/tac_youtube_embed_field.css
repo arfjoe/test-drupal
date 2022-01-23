@@ -1,0 +1,15 @@
+.video-embed-field-provider-youtube {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+.js-tac-panel-opener {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.js-tac-panel-opener:hover {
+    text-decoration: none;
+}

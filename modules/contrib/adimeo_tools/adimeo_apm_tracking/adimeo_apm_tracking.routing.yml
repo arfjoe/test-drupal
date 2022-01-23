@@ -1,0 +1,15 @@
+apm_tracking.config:
+  path: '/admin/config/apm_tracking'
+  defaults:
+    _form: '\Drupal\adimeo_apm_tracking\Form\ConfigForm'
+    _title: 'APM tracking config'
+  requirements:
+    _permission: 'access content'
+    _role: 'administrator'
+
+apm_tracking.get_report:
+  path: '/api/apm_tracking_status_report'
+  defaults:
+    _controller: '\Drupal\adimeo_apm_tracking\Controller\StatusReportController::getStatusReport'
+  requirements:
+    _access: 'TRUE'

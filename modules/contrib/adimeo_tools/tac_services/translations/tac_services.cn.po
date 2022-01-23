@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "您好！这是一个透明的网站，您可以选择激活不同的第三方服务。"
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "感谢您停用广告拦截功能并开始个性化设置。"
+
+msgid "Refresh the page"
+msgstr "重新加载页面"
+
+msgid "By continuing to scroll,"
+msgstr "继续划屏，"
+
+msgid "If you continue to browse this website,"
+msgstr "继续浏览，"
+
+msgid "you are allowing all third-party services"
+msgstr "即表示您同意第三方服务安装cookie"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "这个网站使用cookie， 并让您可以控制想要激活的内容。"
+
+msgid "Manage services"
+msgstr "服务管理"
+
+msgid "Personalize"
+msgstr "个性化"
+
+msgid "OK, accept all"
+msgstr "好的，全部接受"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Privacy policy"
+msgstr "保密政策"
+
+msgid "Preference for all services"
+msgstr "所有服务的偏好设置"
+
+msgid "Protecting your privacy"
+msgstr "{info}"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "通过授权这些第三方服务，您同意存储和读取cookie，并使用其正常运行所需的跟踪技术。"
+
+msgid "Allow"
+msgstr "允许"
+
+msgid "Deny"
+msgstr "禁用"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "此服务可以存储"
+
+msgid "This service has installed"
+msgstr "此服务已存储"
+
+msgid "This service has not installed any cookie."
+msgstr "此服务未存储任何cookie。"
+
+msgid "Read more"
+msgstr "了解更多"
+
+msgid "View the official website"
+msgstr "查看官网"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "通过tarteaucitron.js管理cookie"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "{noServices}"
+
+msgid "Show/hide informations about cookie storage"
+msgstr "显示/隐藏cookie存储信息。"
+
+msgid "Cookies management panel"
+msgstr "Cookie管理面板"
+
+msgid "Cookie detail for"
+msgstr "Cookie详情"
+
+msgid "on our site"
+msgstr "显示在我们的网站上"
+
+msgid "(new window)"
+msgstr "（新建窗口）"
+
+msgid "Allow all cookies"
+msgstr "允许"
+
+msgid "Deny all cookies"
+msgstr "禁用"
+
+msgid "is disabled."
+msgstr "已禁用。"
+
+msgid "Advertising network"
+msgstr "广告组"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "广告组通过营销网站上的广告空间来产生收入."
+
+msgid "Audience measurement"
+msgstr "受众测量"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "受众测量服务可以生成对站点改进有用的访问统计数据。"
+
+msgid "Social networks"
+msgstr "社交网络"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "社交网络有助于提高网站的用户友好性，并通过分享帮助推广。"
+
+msgid "Videos"
+msgstr "视频"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "视频共享服务丰富网站的多媒体内容，提高网站知名度。"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "评论管理器使您的评论更容易提交，并避免垃圾邮件。"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "支持服务使您能够与网站团队联系并帮助改进网站."
+
+msgid "APIs"
+msgstr "API"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "API允许加载脚本：地理位置、搜索引擎、翻译……"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Services to display web content."
+msgstr "旨在显示网页内容的服务。"
+
+msgid "Mandatory cookies"
+msgstr "Mandatory cookies"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "This site uses cookies necessary for its proper functioning which cannot be deactivated."

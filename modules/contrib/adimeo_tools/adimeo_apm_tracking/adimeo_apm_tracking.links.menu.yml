@@ -1,0 +1,4 @@
+apm_tracking.config:
+  title: APM tracking
+  route_name: apm_tracking.config
+  parent: system.admin_config

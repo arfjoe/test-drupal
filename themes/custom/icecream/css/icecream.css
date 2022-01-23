@@ -1,0 +1,12 @@
+h1{
+    color:pink;
+}
+/* Let's make sure we're using a better font! */
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+  }
+  .jumbotron {
+    background: #999;
+    border: 1px solid #666;
+    padding: 1em;
+  }

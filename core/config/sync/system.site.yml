@@ -1,0 +1,15 @@
+uuid: f204e40f-e7f4-4a08-81e0-df8f4e1f255a
+name: SuperSite
+mail: matthieu-neo@hotmail.fr
+slogan: 'C''est un site de ouf'
+page:
+  403: ''
+  404: ''
+  front: /node/6
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+mail_notification: ''

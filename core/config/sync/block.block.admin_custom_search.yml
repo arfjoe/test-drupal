@@ -1,0 +1,23 @@
+uuid: d6e22b1e-6261-41f1-a03f-a8db5e84fe05
+langcode: fr
+status: false
+dependencies:
+  module:
+    - search
+  theme:
+    - admin_custom
+_core:
+  default_config_hash: Q-4EcGAsu26ICu4ejEz0uE1zv4akpiaOsizxgZfAmEw
+id: admin_custom_search
+theme: admin_custom
+region: header
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Rechercher
+  provider: search
+  label_display: visible
+  page_id: node_search
+visibility: {  }

@@ -1,0 +1,20 @@
+<?php
+/**
+ ** Implements hook_theme().
+ **/
+function tac_youtube_embed_field_theme($existing, $type, $theme, $path) {
+
+  $templates = $path . '/templates';
+
+  $return['video_embed_iframe__youtube'] = [
+    'template' => 'video-embed-iframe',
+    'path' => $templates,
+      'variables' => [
+        'url' => '',
+        'query' => [],
+        'attributes' => [],
+        'fragment' => '',
+    ],
+  ];
+  return $return;
+}

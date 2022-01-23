@@ -1,0 +1,25 @@
+#### ACCUEIL
+cp22_saulnier_home.home:
+  title: "Accueil"
+  parent: contrib
+  menu_name: contrib
+  url: internal:/
+  weight: 0
+
+cp22_saulnier_home.home.edit:
+  title: "Modifier la page d'accueil"
+  parent: cp22_saulnier_home.home
+  menu_name: contrib
+  route_name: bo_additions.node_edit
+  options:
+    query:
+      type: 'home'
+      status: '1'
+  weight: 0
+
+cp22_saulnier_home.home.front:
+  title: "Retourner sur la page d'accueil"
+  parent: cp22_saulnier_home.home
+  menu_name: contrib
+  url: internal:/
+  weight: 1

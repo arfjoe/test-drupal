@@ -1,0 +1,8 @@
+name: Saulnier - Projet fil rouge Coding Pool 2022 Page d'accueil
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Saulnier - Projet fil rouge Coding Pool 2022
+dependencies:
+  - adimeo_tools
+  - bo_additions

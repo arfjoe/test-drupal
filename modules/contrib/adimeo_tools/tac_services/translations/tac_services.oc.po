@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Bonjorn! Aqueste site jòga la transparéncia e vos dòna la possibilitat de causir los servicis tèrces a activar."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Mercés de desactivar vòstre adblocker per començar la personalizacion."
+
+msgid "Refresh the page"
+msgstr "Recargar la pagina"
+
+msgid "By continuing to scroll,"
+msgstr "En contunhant de desfilar,"
+
+msgid "If you continue to browse this website,"
+msgstr "En seguissent vòstra navigacion,"
+
+msgid "you are allowing all third-party services"
+msgstr "acceptatz l'utilizacion de servicis tèrces que pòdon installar de cookies"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Aqueste site utiliza de cookies e vos dòna lo contraròtle sus çò que volètz activar"
+
+msgid "Manage services"
+msgstr "Gestion dels servicis"
+
+msgid "Personalize"
+msgstr "Personalizar"
+
+msgid "OK, accept all"
+msgstr "OK, tot acceptar"
+
+msgid "Close"
+msgstr "Tampar"
+
+msgid "Privacy policy"
+msgstr "Politica de confidencialitat"
+
+msgid "Preference for all services"
+msgstr "Preferéncias per totes los servicis"
+
+msgid "Protecting your privacy"
+msgstr "Proteccion de vòstra vida privada"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "En autorizant aquestes servicis tèrces, acceptatz lo depaus e la lectura de cookies e l'utilizacion de tecnologias de seguiment necessaris a lor bon foncionament."
+
+msgid "Allow"
+msgstr "Autorizar"
+
+msgid "Deny"
+msgstr "Interdire"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Aqueste servici pòt daissar"
+
+msgid "This service has installed"
+msgstr "Aqueste servici a daissat"
+
+msgid "This service has not installed any cookie."
+msgstr "Aqueste servici a pas daissat cap de cookies."
+
+msgid "Read more"
+msgstr "Ne saber mai"
+
+msgid "View the official website"
+msgstr "Veire lo site oficial"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Gestion dels cookies per tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "Aqueste site utiliza pas cap de cookies que demandan vòstre consentiment."
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Mostrar/amagar las informacions sus l'emmagazinatge dels cookies"
+
+msgid "Cookies management panel"
+msgstr "Panèl de gestion dels cookies"
+
+msgid "Cookie detail for"
+msgstr "Detalh dels cookies"
+
+msgid "on our site"
+msgstr "sus nòstre site"
+
+msgid "(new window)"
+msgstr "(novèla fenèstra)"
+
+msgid "Allow all cookies"
+msgstr "Autorizar totes los cookies"
+
+msgid "Deny all cookies"
+msgstr "Interdire totes los cookies"
+
+msgid "is disabled."
+msgstr "es desactivat."
+
+msgid "Advertising network"
+msgstr "Regias publicitàrias"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Las regias publicitàrias permeton de gerir de revenguts en comercialisant los espacis publicitaris del site."
+
+msgid "Audience measurement"
+msgstr "Mesura d'audiéncia"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "Los servicis de mesura d'audiénce permeton de generar d'estatisticas de frequentacion utilas per melhorar lo site."
+
+msgid "Social networks"
+msgstr "Malhums socials"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Los malhums socials permeton de melhorar la convivéncia del site e d'ajudar sa promocion via los partatges."
+
+msgid "Videos"
+msgstr "Vidèos"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Los servicis de partatge de vidèo permeton d'enriquir lo site de contengut multimèdia e aumentan sa visibilitat."
+
+msgid "Comments"
+msgstr "Comentaris"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Los gestionaris de comentaris facilitan lo depaus de vòstres comentaris e lutan contra los messatges indesirables."
+
+msgid "Support"
+msgstr "Assiténcia"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Los servicis d'assisténcia vos permeton de dintrar en contacte amb l'equipa del site e d'ajudar a son melhorament."
+
+msgid "APIs"
+msgstr "APIs"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "Las APIs permeton de cargar de scripts : geolocalizacion, motors de recèrca, traduccions, ..."
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Services to display web content."
+msgstr "Servicis que cèrcan a afichar de contengut web."
+
+msgid "Mandatory cookies"
+msgstr "Cookies necessaris"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "Aqueste site utiliza de cookies necessaris pel seu pròpri foncionament que pòdon pas èsser desactivats."

@@ -1,0 +1,10 @@
+apm_ticketing:
+  version: 1.x
+  css:
+    theme:
+      css/2.846257d0.chunk.css: {}
+      css/main.9f40a9ec.chunk.css: {}
+  js:
+    js/2.7a29fcda.chunk.js: {}
+    js/main.70a338c9.chunk.js: {}
+    js/runtime-main.77298cdf.js: {}

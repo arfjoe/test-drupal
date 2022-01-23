@@ -1,0 +1,30 @@
+#### ACCUEIL
+cp22_saulnier_edito.edito:
+  title: "Pages projet éditoriales"
+  parent: contrib
+  menu_name: contrib
+  url: internal:/admin/content?type%5B%5D=edito_project
+  options:
+    query:
+      type[0]: 'edito'
+  weight: 2
+
+cp22_saulnier_edito.edito.edit:
+  title: "Voir la liste"
+  parent: cp22_saulnier_edito.edito
+  menu_name: contrib
+  url: internal:/admin/content?type%5B%5D=edito_project
+  options:
+    query:
+      type[0]: 'edito'
+  weight: 0
+
+cp22_saulnier_edito.edito.add:
+  title: "Ajouter une page"
+  parent: cp22_saulnier_edito.edito
+  menu_name: contrib
+  url: internal:/node/add/edito_project
+  options:
+    query:
+      type[0]: 'edito'
+  weight: 1

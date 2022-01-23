@@ -1,0 +1,18 @@
+uuid: 065dd6aa-1de4-46e9-a872-785f00f1198e
+langcode: fr
+status: true
+dependencies:
+  config:
+    - node.type.home
+id: node.home.title
+field_name: title
+entity_type: node
+bundle: home
+label: 'Titre (administratif)'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

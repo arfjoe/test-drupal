@@ -1,0 +1,10 @@
+{{ attach_library('tac_youtube_embed_field/tac_youtube_embed_field_renderer') }}
+<div class="tac-youtube-embed-field"
+     data-width="{{ attributes.storage.width }}"
+     data-height="{{ attributes.storage.height }}"
+     data-frameborder="{{ attributes.storage.frameborder }}"
+     data-allowfullscreen="{{ attributes.storage.allowfullscreen }}"
+     data-src="{{ url }}"
+     data-provider="youtube"
+></div>
+{#<iframe{{ attributes }}{% if url is not empty %} src="{{ url }}{% if query is not empty %}?{{ query | url_encode }}{% endif %}{% if fragment is not empty %}#{{ fragment }}{% endif %}"{% endif %}></iframe>#}

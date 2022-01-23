@@ -1,0 +1,12 @@
+name: TAC Youtube Field
+description: Override the contrib module Video Embed Field in order to use tac_services with it (with youtube provider).
+package: Web services
+
+type: module
+core_version_requirement: ^8 || ^9
+core: 8.x
+
+dependencies:
+  - tac_services
+  - video_embed_field
+

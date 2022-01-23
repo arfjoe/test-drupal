@@ -1,0 +1,6 @@
+name: Saulnier - Projet fil rouge Coding Pool 2022 Page news
+type: module
+core_version_requirement: ^8 || ^9
+package: Saulnier - Projet fil rouge Coding Pool 2022
+dependencies:
+  - bo_additions

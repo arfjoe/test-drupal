@@ -1,0 +1,10 @@
+services:
+  adimeo_apm_ticketing.login:
+    class: Drupal\adimeo_apm_ticketing\EventSubscriber\LoginSubscriber
+    arguments: []
+    tags:
+      - { name: event_subscriber }
+
+  adimeo_apm_ticketing.render:
+    class: Drupal\adimeo_apm_ticketing\Manager\RenderManager
+    arguments: ['@renderer']

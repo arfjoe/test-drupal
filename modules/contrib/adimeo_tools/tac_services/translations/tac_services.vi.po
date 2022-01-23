@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Xin chào! Trang web này minh bạch và cho phép bạn chọn dịch vụ bên thứ 3 mà bạn muốn cho phép."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Vui lòng vô hiệu hóa trình chặn quảng cáo của bạn để bắt đầu tùy chỉnh."
+
+msgid "Refresh the page"
+msgstr "Làm mới trang"
+
+msgid "By continuing to scroll,"
+msgstr "tiếp tục cuộn,"
+
+msgid "If you continue to browse this website,"
+msgstr "Nếu bạn tiếp tục truy cập trang web này,"
+
+msgid "you are allowing all third-party services"
+msgstr "bạn đang cho phép tất cả các dịch vụ của bên thứ ba"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Trang web này sử dụng cookie và cung cấp cho bạn quyền kiểm soát những gì bạn muốn kích hoạt"
+
+msgid "Manage services"
+msgstr "Quản lý dịch vụ"
+
+msgid "Personalize"
+msgstr "Cá nhân"
+
+msgid "OK, accept all"
+msgstr "OK, đồng ý"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Privacy policy"
+msgstr "Chính sách bảo mật"
+
+msgid "Preference for all services"
+msgstr "Ưu tiên cho tất cả các dịch vụ"
+
+msgid "Protecting your privacy"
+msgstr "Bảo vệ sự riêng tư của bạn"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Bằng cách cho phép các dịch vụ bên thứ ba này, bạn chấp nhận cookie của họ và sử dụng các công nghệ theo dõi cần thiết cho hoạt động đúng đắn của họ."
+
+msgid "Allow"
+msgstr "Cho phép"
+
+msgid "Deny"
+msgstr "Từ chối"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Dịch vụ này có thể cài đặt"
+
+msgid "This service has installed"
+msgstr "Dịch vụ này đã được cài đặt"
+
+msgid "This service has not installed any cookie."
+msgstr "Dịch vụ này không được cài đặt bất cứ cookie nào."
+
+msgid "Read more"
+msgstr "Xem thêm"
+
+msgid "View the official website"
+msgstr "Xam trang web chính thức"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Cookies được quản lý bằng tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "Trang web này không sử dụng bất kì cookie nào yêu cầu sự chấp thuận của bạn."
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Hiển thị / ẩn thông tin về lưu trữ cookie"
+
+msgid "Cookies management panel"
+msgstr "Bảng quản lý cookie"
+
+msgid "Cookie detail for"
+msgstr "Cookie chi tiết"
+
+msgid "on our site"
+msgstr "trên site của chúng ta"
+
+msgid "(new window)"
+msgstr "(Cửa sổ mới)"
+
+msgid "Allow all cookies"
+msgstr "Cho phép tất cả các Cookies"
+
+msgid "Deny all cookies"
+msgstr "Từ chối cất cả cookies"
+
+msgid "is disabled."
+msgstr "tắt."
+
+msgid "Advertising network"
+msgstr "Mạng quảng cáo"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Mạng quảng cáo có thể tạo doanh thu bằng cách bán không gian quảng cáo trên trang web."
+
+msgid "Audience measurement"
+msgstr "Đo lường hành vi người dùng"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "Công cụ đo lường hành vi người dùng cập nhật những thống kê hữu ích nhằm nâng cao chất lượng phục vụ của website."
+
+msgid "Social networks"
+msgstr "Các mạng xã hội"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Mạng xã hội có thể cải thiện khả năng sử dụng của trang web và giúp quảng bá nó thông qua các chia sẻ."
+
+msgid "Videos"
+msgstr "Các video"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Dịch vụ chia sẻ video giúp thêm phương tiện phong phú trên trang web và tăng khả năng hiển thị của nó."
+
+msgid "Comments"
+msgstr "Bình luận"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Quản lý comments tạo điều kiện cho việc gửi ý kiến và chống thư rác."
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Các dịch vụ hỗ trợ cho phép bạn liên lạc với nhóm trang web và giúp cải thiện nó."
+
+msgid "APIs"
+msgstr "APIs"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "APIs được sử dụng để load: geolocation, search engines, translations, ..."
+
+msgid "Other"
+msgstr "Dịch vụ khác"
+
+msgid "Services to display web content."
+msgstr "Dịch vụ hiển thị nội dung web."
+
+msgid "Mandatory cookies"
+msgstr "Mandatory cookies"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "This site uses cookies necessary for its proper functioning which cannot be deactivated."

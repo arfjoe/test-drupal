@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Implement hook_schema().
+ */
+function cp22_saulnier_global_schema() {
+  $schema = array();
+  return $schema;
+}
+
+/**
+ * Implement hook_install().
+ */
+function cp22_saulnier_global_install() {
+}

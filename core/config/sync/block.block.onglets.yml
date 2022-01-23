@@ -1,0 +1,20 @@
+uuid: 989031fd-b012-40df-9943-89ded4912258
+langcode: fr
+status: true
+dependencies:
+  theme:
+    - admin_custom
+id: onglets
+theme: admin_custom
+region: header
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Onglets
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

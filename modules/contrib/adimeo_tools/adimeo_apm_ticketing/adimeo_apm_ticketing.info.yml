@@ -1,0 +1,8 @@
+name: 'adimeo_apm_ticketing'
+type: module
+description: Permet l'envoie de ticket vers APM
+core_version_requirement: ^8 || ^9
+package: 'Adimeo'
+
+dependencies:
+  - adimeo

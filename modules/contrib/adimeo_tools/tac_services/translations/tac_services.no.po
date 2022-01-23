@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Hei! Dette nettstedet er gjennomsiktig og lar deg kontrollere hvilke tredjeparts tjenester du vil tillate."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "For å gjøre endringer, vær så snill å deaktivere annonse-blokkering."
+
+msgid "Refresh the page"
+msgstr "Oppdater side"
+
+msgid "By continuing to scroll,"
+msgstr "Ved å fortsette å scrolle,"
+
+msgid "If you continue to browse this website,"
+msgstr "Dersom du fortsetter å bruke dette nettstedet,"
+
+msgid "you are allowing all third-party services"
+msgstr "tillater du alle tredjeparts tjenester"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Dette nettstedet bruker informasjonskapsler og gir deg kontroll over hva du vil aktivere"
+
+msgid "Manage services"
+msgstr "Administrer tjenester"
+
+msgid "Personalize"
+msgstr "Personaliser"
+
+msgid "OK, accept all"
+msgstr "OK, aksepter alt"
+
+msgid "Close"
+msgstr "Steng"
+
+msgid "Privacy policy"
+msgstr "Personvernregler"
+
+msgid "Preference for all services"
+msgstr "Preferanse for alle tjenester"
+
+msgid "Protecting your privacy"
+msgstr "Beskytt ditt personvern"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Ved å tillate disse tredjepartstjenestene godtar du informasjonskapslene deres og bruken av sporingsteknologier som er nødvendige for at de skal fungere korrekt."
+
+msgid "Allow"
+msgstr "Tillat"
+
+msgid "Deny"
+msgstr "Ikke tillat"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Denne tjenesten kan installeres"
+
+msgid "This service has installed"
+msgstr "Denne tjenesten er installert"
+
+msgid "This service has not installed any cookie."
+msgstr "TDenne tjenesten har ikke installert noen informasjonskapsel."
+
+msgid "Read more"
+msgstr "Les mer"
+
+msgid "View the official website"
+msgstr "Se den offisielle nettsiden"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Informasjonskapsler styres av tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "Dette nettstedet bruker ingen informasjonskapsler som krever ditt samtykke."
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Vis / skjul informasjon om lagring av informasjonskapsler"
+
+msgid "Cookies management panel"
+msgstr "Panel for informasjonskapsler"
+
+msgid "Cookie detail for"
+msgstr "Informasjon om informasjonskapsler for"
+
+msgid "on our site"
+msgstr "på nettstedet vårt"
+
+msgid "(new window)"
+msgstr "(nytt vindu)"
+
+msgid "Allow all cookies"
+msgstr "Tillat alle informasjonskapsler"
+
+msgid "Deny all cookies"
+msgstr "Nekt alle informasjonskapsler"
+
+msgid "is disabled."
+msgstr "er skrudd av."
+
+msgid "Advertising network"
+msgstr "Annonsenettverk"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Annonsenettverket kan generere inntekter ved å selge reklameplass på nettstedet."
+
+msgid "Audience measurement"
+msgstr "Målgruppe målinger"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "Målgruppens målingstjenester ble brukt til å generere nyttig informasjon for å forbedre nettstedet."
+
+msgid "Social networks"
+msgstr "Sosiale nettverk"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Sosiale nettverk kan forbedre brukervennligheten til nettstedet og bidra til å markedsføre det."
+
+msgid "Videos"
+msgstr "Video"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Videodelingstjenester hjelper til med å legge til rik media på nettstedet og øke synligheten."
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Kommentaradministratorer legger til rette for arkivering av kommentarer og bekjemper spam."
+
+msgid "Support"
+msgstr "Brukerstøtte"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Brukerstøtte lar deg komme i kontakt med nettstedsteamet og bidra til å forbedre nettstedet."
+
+msgid "APIs"
+msgstr "API-er"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "API-er brukes til å laste inn skript: geolokalisering, søkemotorer, oversettelser, ..."
+
+msgid "Other"
+msgstr "Annet"
+
+msgid "Services to display web content."
+msgstr "Tjenester for å vise innhold på nettet."
+
+msgid "Mandatory cookies"
+msgstr "Obligatoriske informasjonskapsler"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "Dette nettstedet bruker obligatoriske informasjonskapsler som er nødvendige for at nettstedet skal fungere som det skal. Disse kan ikke deaktiveres."

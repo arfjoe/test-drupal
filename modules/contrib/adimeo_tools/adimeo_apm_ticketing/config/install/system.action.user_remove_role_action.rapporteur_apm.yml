@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.rapporteur_apm
+  module:
+    - user
+id: user_remove_role_action.rapporteur_apm
+label: 'Remove the Rapporteur  APM role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: rapporteur_apm

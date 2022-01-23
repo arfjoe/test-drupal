@@ -1,0 +1,12 @@
+tac_youtube_embed_field_renderer:
+  version: 1.x
+  js:
+    js/tac_youtube_embed_field_renderer.js: {weight: -1}
+  css:
+    theme:
+      css/tac_youtube_embed_field.css: {weight: -1}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/jquery.once
+    - tac_services/tac_services

@@ -1,0 +1,7 @@
+cp22_saulnier_home.home:
+  path: '/front'
+  defaults:
+    _controller: cp22_saulnier_home.home_controller:content
+    _title: 'Accueil'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Ahoj! Táto stránka je transparentná a umožňuje vám vybrať služby tretích strán, ktoré chcete povoliť."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Prosím, vypnite blokovanie reklám k začatiu prispôsobovania"
+
+msgid "Refresh the page"
+msgstr "Obnovte stránku"
+
+msgid "By continuing to scroll,"
+msgstr "Pokračovaním v posúvaní,"
+
+msgid "If you continue to browse this website,"
+msgstr "Ak budete pokračovať v prehliadaní tejto webovej stránky,"
+
+msgid "you are allowing all third-party services"
+msgstr "povoľujete všetky služby tretích strán"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Táto stránka používa cookies a dáva vám kontrolu nad tým, čo chcete aktivovať"
+
+msgid "Manage services"
+msgstr "Spravovať služby"
+
+msgid "Personalize"
+msgstr "Prispôsobiť"
+
+msgid "OK, accept all"
+msgstr "OK, prijať všetko"
+
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "Privacy policy"
+msgstr "Zásady ochrany osobných údajov"
+
+msgid "Preference for all services"
+msgstr "Prednosť pre všetky služby"
+
+msgid "Protecting your privacy"
+msgstr "Ochrana vášho súkromia"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Povolením týchto služieb tretích strán, prijímate ich cookies a používanie sledovacích technológií potrebných pre ich správne fungovanie."
+
+msgid "Allow"
+msgstr "Povoliť"
+
+msgid "Deny"
+msgstr "Odmietnúť"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Túto službu je možné nainštalovať"
+
+msgid "This service has installed"
+msgstr "Táto služba je nainštalovaná"
+
+msgid "This service has not installed any cookie."
+msgstr "Táto služba nenainštalovala žiadny súbor cookie."
+
+msgid "Read more"
+msgstr "Čítaj viac"
+
+msgid "View the official website"
+msgstr "Pozrite si oficiálnu webovú stránku"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Správca súborov cookie od tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "Táto webová stránka nepoužíva žiadny súbor cookie, ktorý vyžaduje váš súhlas."
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Zobraziť/skryť informácie o ukladaní súborov cookie"
+
+msgid "Cookies management panel"
+msgstr "Panel riadenia súborov cookie"
+
+msgid "Cookie detail for"
+msgstr "Podrobnosti súboru cookie pre"
+
+msgid "on our site"
+msgstr "na našich stránkach"
+
+msgid "(new window)"
+msgstr "(nové okno)"
+
+msgid "Allow all cookies"
+msgstr "Povoľte všetky súbory cookie"
+
+msgid "Deny all cookies"
+msgstr "Odmietnuť všetky súbory cookie"
+
+msgid "is disabled."
+msgstr "je zakázané."
+
+msgid "Advertising network"
+msgstr "Reklamná sieť"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Reklamné siete môžu generovať príjmy predajom reklamného priestoru na webe."
+
+msgid "Audience measurement"
+msgstr "Meranie publika"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "Služby merania publika používané na generovanie užitočnej štatistickej účasti na zlepšenie stránky."
+
+msgid "Social networks"
+msgstr "Sociálne siete"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Sociálne siete môžu zlepšiť použiteľnosť stránky a pomôcť ju propagovať prostredníctvom akcií."
+
+msgid "Videos"
+msgstr "Videá"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Služby zdieľania videa pomáhajú pridať na web bohatý obsah a zvýšiť jeho viditeľnosť."
+
+msgid "Comments"
+msgstr "Komentáre"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Manažéri komentárov uľahčujú zadávanie komentárov a bojujú proti spamu."
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Podporné služby vám umožňujú skontaktovať sa s tímom stránok a pomôcť vám ich vylepšiť."
+
+msgid "APIs"
+msgstr "APIs"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "Rozhrania API sa používajú na načítanie skriptov: geolokácia, vyhľadávače, preklady, ..."
+
+msgid "Other"
+msgstr "Ostatné"
+
+msgid "Services to display web content."
+msgstr "Služby na zobrazovanie webového obsahu."
+
+msgid "Mandatory cookies"
+msgstr "Mandatory cookies"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "This site uses cookies necessary for its proper functioning which cannot be deactivated."

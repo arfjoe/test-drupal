@@ -1,0 +1,49 @@
+tac_services.settings:
+  path: '/admin/config/services/tarteaucitron'
+  defaults:
+    _controller: '\Drupal\system\Controller\SystemController::systemAdminMenuBlockPage'
+    _title: 'Tarteaucitron'
+  requirements:
+    _permission: 'administer site configuration'
+
+# Route de la page de liste des webservices gérés via tarteaucitron.js
+tac_services.configuration_form:
+  path: '/admin/config/services/tarteaucitron/configurations'
+  defaults:
+    _form: '\Drupal\tac_services\Form\TacServicesConfForm'
+    _title: 'Webservices gérés via tarteaucitron.js'
+  requirements:
+    _permission: 'administer site configuration'
+
+# Route de la page de configuration globale de tarteaucitron.js
+tac_services.settings_form:
+  path: '/admin/config/services/tarteaucitron/settings'
+  defaults:
+    _form: '\Drupal\tac_services\Form\TacSettingsForm'
+    _title: 'Configuration globale de tarteaucitron.js'
+  requirements:
+    _permission: 'administer site configuration'
+
+# Route ajax de récupération des champs OEmbed rendu
+tac_services.ajax_oembed_render:
+  path: '/ajax/tarteaucitron/display/oembed/{media}/{field_name}'
+  defaults:
+    _controller: tac_services.ajax_oembed_controller:replaceWithOembedContent
+  options:
+    parameters:
+      media:
+        type: entity:media
+  requirements:
+    _permission: 'access content'
+
+# Route ajax de récupération des entité OEmbed pour ckeditor
+tac_services.ajax_oembed_ckeditor_render:
+  path: '/ajax/tarteaucitron/ckeditor/oembed/{media}/{field_name}'
+  defaults:
+    _controller: tac_services.ajax_oembed_controller:returnOembedContentForCkEditor
+  options:
+    parameters:
+      media:
+        type: entity:media
+  requirements:
+    _permission: 'access content'

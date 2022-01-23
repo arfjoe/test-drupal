@@ -1,0 +1,9 @@
+name: adimeo_apm_tracking
+type: module
+description: Suivi des informations du serveur par APM
+core_version_requirement: ^8 || ^9
+package: 'Adimeo'
+configure: apm_tracking.config
+
+#dependencies:
+#  - adimeo

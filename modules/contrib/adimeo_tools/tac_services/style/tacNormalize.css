@@ -1,0 +1,84 @@
+/* Variables */
+:root {
+    --tac-main-color: black;
+    --tac-secondary-color: white;
+}
+
+/*  Banner */
+#tarteaucitronAlertBig {
+    color: var(--tac-secondary-color) !important;
+    background-color: var(--tac-main-color) !important;
+}
+
+#tarteaucitronDisclaimerAlert {
+    margin-bottom: 10px !important;
+}
+
+
+/* Buttons */
+.tarteaucitronCTAButton {
+    color: var(--tac-main-color) !important;
+    background-color: var(--tac-secondary-color) !important;
+}
+
+.tarteaucitronAllow {
+    color: var(--tac-main-color) !important;
+    background-color: var(--tac-secondary-color) !important;
+    border-radius: 0 !important;
+}
+
+.tarteaucitronDeny {
+    color: var(--tac-main-color) !important;
+    background-color: var(--tac-secondary-color) !important;
+    border-radius: 0 !important;
+}
+
+.tarteaucitronCheck::before {
+    color: var(--tac-main-color) !important;
+    margin-right: 5px;
+}
+
+.tarteaucitronCross::before {
+    color: var(--tac-main-color) !important;
+    margin-right: 5px;
+}
+
+/* Panel */
+.tarteaucitronMainLine {
+    background-color: var(--tac-main-color) !important;
+    color: var(--tac-secondary-color) !important;
+}
+
+#tarteaucitronInfo {
+    background-color: var(--tac-main-color) !important;
+    border: none !important;
+    font-size: 12px !important; 
+}
+
+.tarteaucitronH1 {
+    font-size: 20px !important;
+}
+
+.tarteaucitronTitle {
+    background-color: rgba(51, 51, 51, 0.1) !important;
+}
+
+#tarteaucitronIcon {
+    max-width: 60px;
+    width: 60px;
+    margin-bottom: 10px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+
+#tarteaucitronIcon button {
+    padding: 0 !important;
+}
+
+#tarteaucitronRoot button {
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+body #tarteaucitronAlertBig #tarteaucitronAlertBigBtnWrapper button {
+    display: inline-block;
+}

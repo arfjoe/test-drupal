@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Hej! Dette sted er gennemsigtigt og giver dig mulighed for at vælge de tredjeparts tjenester, du vil tillade."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Deaktiver venligst din adblocker for at begynde tilpasningen."
+
+msgid "Refresh the page"
+msgstr "Opdater siden"
+
+msgid "By continuing to scroll,"
+msgstr "Ved at fortsætte med at scrolle,"
+
+msgid "If you continue to browse this website,"
+msgstr "Hvis du fortsætter med at bruge dette websted,"
+
+msgid "you are allowing all third-party services"
+msgstr "tillader du alle tredjeparts tjenester"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Dette websted bruger cookies og giver dig kontrol over, hvad du vil aktivere"
+
+msgid "Manage services"
+msgstr "Administrer tjenester"
+
+msgid "Personalize"
+msgstr "Tilpas"
+
+msgid "OK, accept all"
+msgstr "OK, accepter alle"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "Privacy policy"
+msgstr "Fortrolighedspolitik"
+
+msgid "Preference for all services"
+msgstr "Præference for alle tjenester"
+
+msgid "Protecting your privacy"
+msgstr "Beskyttelse af dit privatliv"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Ved at tillade disse tredjeparts tjenester accepterer du deres cookies og brugen af sporingsteknologier, der er nødvendige for, at de fungerer korrekt."
+
+msgid "Allow"
+msgstr "Tillad"
+
+msgid "Deny"
+msgstr "Afvis "
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Denne service kan installere"
+
+msgid "This service has installed"
+msgstr "Denne service er installeret"
+
+msgid "This service has not installed any cookie."
+msgstr "Denne service har ikke installeret nogen cookie."
+
+msgid "Read more"
+msgstr "Læs mere"
+
+msgid "View the official website"
+msgstr "Se det officielle websted"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Cookies manager af tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "Dette websted bruger ikke nogen cookie, der kræver dit samtykke."
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Vis / skjul informationer om opbevaring af cookies"
+
+msgid "Cookies management panel"
+msgstr "CCookie-styringspanel"
+
+msgid "Cookie detail for"
+msgstr "Cookie detaljer for"
+
+msgid "on our site"
+msgstr "på vores side"
+
+msgid "(new window)"
+msgstr "(nyt vindue)"
+
+msgid "Allow all cookies"
+msgstr "Tillad alle cookies"
+
+msgid "Deny all cookies"
+msgstr "Afvis alle cookies"
+
+msgid "is disabled."
+msgstr "er deaktiveret."
+
+msgid "Advertising network"
+msgstr "Annonceringsnetværk"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Annoncenetværk kan generere indtægter ved at sælge annonceplads på webstedet."
+
+msgid "Audience measurement"
+msgstr "Måling af målgruppen"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "Målingstjenesterne bruges til at generere nyttig statistisk til at forbedre webstedet."
+
+msgid "Social networks"
+msgstr "Sociale netværk"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Sociale netværk kan forbedre anvendeligheden af webstedet og hjælpe med at markedsføre det via aktierne."
+
+msgid "Videos"
+msgstr "Videoer"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Videodelingstjenester hjælper med at tilføje rige medier på webstedet og øger dets synlighed."
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Kommentarledere letter arkiveringen af kommentarer og bekæmper spam."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Supporttjenester giver dig mulighed for at komme i kontakt med webstedsteamet og hjælpe med at forbedre det."
+
+msgid "APIs"
+msgstr "APIer"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "AAPI'er bruges til at indlæse scripts: geolokalisation, søgemaskiner, oversættelser, ..."
+
+msgid "Other"
+msgstr "Andet"
+
+msgid "Services to display web content."
+msgstr "Tjenester til visning af webindhold."
+
+msgid "Mandatory cookies"
+msgstr "Mandatory cookies"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "This site uses cookies necessary for its proper functioning which cannot be deactivated."

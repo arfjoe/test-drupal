@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "¡Hola! Este sitio web es transparente y te da la opción de activar los servicios de terceros."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Por favor deshabilita tu AdBlocker para empezar a personalizar los servicios."
+
+msgid "Refresh the page"
+msgstr "Actualizar esta página"
+
+msgid "By continuing to scroll,"
+msgstr "Al continuar desplazándote,"
+
+msgid "If you continue to browse this website,"
+msgstr "Si continuas navegando por este sitio web,"
+
+msgid "you are allowing all third-party services"
+msgstr "estás permitiendo servicios terceros"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Este sitio web usa cookies y te permite controlar las que deseas activar"
+
+msgid "Manage services"
+msgstr "Gestionar servicios"
+
+msgid "Personalize"
+msgstr "Personalizar"
+
+msgid "OK, accept all"
+msgstr "OK, aceptar todas"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Privacy policy"
+msgstr "Política de privacidad"
+
+msgid "Preference for all services"
+msgstr "Ajustes para todos los servicios"
+
+msgid "Protecting your privacy"
+msgstr "Protegiendo tu privacidad"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Aceptando estos servicios de terceros, estás aceptando sus cookies y el uso de tecnologías de rastreo necesarias para su correcto funcionamiento."
+
+msgid "Allow"
+msgstr "Permitir"
+
+msgid "Deny"
+msgstr "Denegar"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Este servicio puede instalar"
+
+msgid "This service has installed"
+msgstr "Este servicio ha instalado"
+
+msgid "This service has not installed any cookie."
+msgstr "Este servicio no ha instalado ninguna cookie."
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "View the official website"
+msgstr "Ver sitio web oficial"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Gestor de cookies realizado por tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "{noServices}"
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Mostrar/ocultar información sobre almacenamiento de cookies"
+
+msgid "Cookies management panel"
+msgstr "Panel de gestión de cookies"
+
+msgid "Cookie detail for"
+msgstr "Detalles de las cookies para"
+
+msgid "on our site"
+msgstr "en nuestra web"
+
+msgid "(new window)"
+msgstr "(ventana nueva)"
+
+msgid "Allow all cookies"
+msgstr "Permitir todas las cookies"
+
+msgid "Deny all cookies"
+msgstr "Denegar todas las cookies"
+
+msgid "is disabled."
+msgstr "está deshabilitado."
+
+msgid "Advertising network"
+msgstr "Red de publicidad"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Las redes publicitarias pueden generar ingresos mediante la venta de espacios publicitarios en el sitio."
+
+msgid "Audience measurement"
+msgstr "Medición de audiencia"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "Los servicios de medición de audiencia se usan para generar estadísticas útiles para mejorar el sitio."
+
+msgid "Social networks"
+msgstr "Redes sociales"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Las redes sociales pueden aumentar la usabilidad del sitio web y ayudar a promoverlo a través de la contribución."
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Los servicios para compartir videos ayudan a añadir contenido enriquecido en el sitio web y aumentar su visibilidad."
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "El gestor de comentarios facilita la clasificación de comentarios y luchar contra spam."
+
+msgid "Support"
+msgstr "Soporte"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Los servicios de soporte te permiten contactar con el sitio web y ayudar a mejorarlo."
+
+msgid "APIs"
+msgstr "APIs"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "APIs se utilizan para cargar scripts: geolocalización, motor de búsqueda, traducciones, ..."
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "Services to display web content."
+msgstr "Servicios para mostrar contenido web."
+
+msgid "Mandatory cookies"
+msgstr "Cookies obligatorias"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "Este sitio utiliza cookies necesarias para su correcto funcionamiento que no se pueden desactivar."

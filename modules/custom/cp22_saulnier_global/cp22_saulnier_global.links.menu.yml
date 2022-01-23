@@ -1,0 +1,83 @@
+#### Thématiques
+
+cp22_saulnier_global.global.theme:
+  title: "Thématiques"
+  parent: contrib
+  menu_name: contrib
+  route_name: '<nolink>'
+  weight: 2
+
+cp22_saulnier_global.global.theme.edit:
+  title: "Lister les thématiques"
+  parent: cp22_saulnier_global.global.theme
+  menu_name: contrib
+  url: internal:/admin/structure/taxonomy/manage/theme/overview
+  weight: 0
+
+cp22_saulnier_global.global.theme.add:
+  title: "Ajouter une thématique"
+  parent: cp22_saulnier_global.global.theme
+  menu_name: contrib
+  url: internal:/admin/structure/taxonomy/manage/theme/add
+  options:
+    query:
+      type[0]: 'edito'
+  weight: 1
+
+#### Médias
+
+cp22_saulnier_global.global.media:
+  title: "Media"
+  parent: contrib
+  menu_name: contrib
+  route_name: '<nolink>'
+  weight: 3
+
+cp22_saulnier_global.global.media.edit:
+  title: "Voir les médias"
+  parent: cp22_saulnier_global.global.media
+  menu_name: contrib
+  url: internal:/admin/content/media-grid
+  weight: 0
+
+cp22_saulnier_global.global.media.images:
+  title: "Images"
+  parent: cp22_saulnier_global.global.media
+  menu_name: contrib
+  url: internal:/admin/content/media?name=&type=image&status=All&langcode=All
+  weight: 1
+
+cp22_saulnier_global.global.media.images.edit:
+  title: "Voir les images"
+  parent: cp22_saulnier_global.global.media.images
+  menu_name: contrib
+  url: internal:/admin/content/media?name=&type=image&status=All&langcode=All
+  weight: 0
+
+cp22_saulnier_global.global.media.images.add:
+  title: "Ajouter des images"
+  parent: cp22_saulnier_global.global.media.images
+  menu_name: contrib
+  url: internal:/media/add/image
+  weight: 1
+
+cp22_saulnier_global.global.media.videos:
+  title: "Videos"
+  parent: cp22_saulnier_global.global.media
+  menu_name: contrib
+  url: internal:/admin/content/media?name=&type=remote_video&status=All&langcode=All
+  weight: 2
+
+cp22_saulnier_global.global.media.videos.edit:
+  title: "Voir les videos"
+  parent: cp22_saulnier_global.global.media.videos
+  menu_name: contrib
+  url: internal:/admin/content/media?name=&type=remote_video&status=All&langcode=All
+  weight: 1
+
+cp22_saulnier_global.global.media.videos.add:
+  title: "Ajouter des videos"
+  parent: cp22_saulnier_global.global.media.videos
+  menu_name: contrib
+  url: internal:/media/add/remote_video
+  weight: 2

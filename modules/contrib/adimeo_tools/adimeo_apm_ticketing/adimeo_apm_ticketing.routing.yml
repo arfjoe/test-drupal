@@ -1,0 +1,18 @@
+adimeo_apm_ticketing.media_controller:
+  path: '/static/media/{fileName}'
+  defaults:
+    _controller: '\Drupal\adimeo_apm_ticketing\Controller\MediaController::media'
+    _title: 'Redirect medias files'
+  requirements:
+    _permission: 'access content'
+
+adimeo_apm_ticketing.media_apm_controller:
+  path: '/apm/static/media/{fileName}'
+  defaults:
+    _controller: '\Drupal\adimeo_apm_ticketing\Controller\MediaController::mediaApm'
+    _title: 'Redirect medias files'
+  requirements:
+    _permission: 'access content'
+
+adimeo_apm_ticketing.media_redirect:
+  path: '/modules/custom/adimeo/adimeo_apm_ticketing/apm/static/media/{fileName}'

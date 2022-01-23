@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Здравей! Този сайт позволяа включването на бисквитки по избор."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Моля изключете вашият adblocker и изберете бисквитките които искате, или спрете всички."
+
+msgid "Refresh the page"
+msgstr "Презареди"
+
+msgid "By continuing to scroll,"
+msgstr "Ако продължавате да скролвате,"
+
+msgid "If you continue to browse this website,"
+msgstr "Ако продължавате да използвате този сайт,"
+
+msgid "you are allowing all third-party services"
+msgstr "вив се съгласявате с всички бисквитки от трети лица."
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Този сайт използва бисквитки и Ви дава право да изберете записването на определени или всички."
+
+msgid "Manage services"
+msgstr "Управление на услуги"
+
+msgid "Personalize"
+msgstr "Ще избирам"
+
+msgid "OK, accept all"
+msgstr "ОК, приемам всички"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "Privacy policy"
+msgstr "Политика за поверителност"
+
+msgid "Preference for all services"
+msgstr "Услуги които записват бисквитки на този сайт"
+
+msgid "Protecting your privacy"
+msgstr "Зашитава вашата сигурност"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Позволяването на тези бисквитки от трети лица, Вие приемате те да записват и използват услуги за проследяване нужни за правилното им функциониране."
+
+msgid "Allow"
+msgstr "Разшреши"
+
+msgid "Deny"
+msgstr "Забрани"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Тази услуга може да запише"
+
+msgid "This service has installed"
+msgstr "Тази услуга е записала"
+
+msgid "This service has not installed any cookie."
+msgstr "Тази услуга не е записала бисквитки."
+
+msgid "Read more"
+msgstr "Прочети повече"
+
+msgid "View the official website"
+msgstr "Официален сайт"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Управление на бисквитките от tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "{noServices}"
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Покажи/скрий информация за записването на бисквитки"
+
+msgid "Cookies management panel"
+msgstr "Управление на бисквитките"
+
+msgid "Cookie detail for"
+msgstr "Информация за"
+
+msgid "on our site"
+msgstr "в нашият сайт"
+
+msgid "(new window)"
+msgstr "(нов прозорец)"
+
+msgid "Allow all cookies"
+msgstr "Разреши всички"
+
+msgid "Deny all cookies"
+msgstr "Забрани всички"
+
+msgid "is disabled."
+msgstr "е изключен."
+
+msgid "Advertising network"
+msgstr "Рекламодатели"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Ad networks can generate revenue by selling advertising space on the site."
+
+msgid "Audience measurement"
+msgstr "Аналитични"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "The audience measurement services used to generate useful statistics attendance to improve the site."
+
+msgid "Social networks"
+msgstr "Социални"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Social networks can improve the usability of the site and help to promote it via the shares."
+
+msgid "Videos"
+msgstr "Видео платформи"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Video sharing services help to add rich media on the site and increase its visibility."
+
+msgid "Comments"
+msgstr "Коментари"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Comments managers facilitate the filing of comments and fight against spam."
+
+msgid "Support"
+msgstr "Поддръжка"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Support services allow you to get in touch with the site team and help to improve it."
+
+msgid "APIs"
+msgstr "Функционални"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "APIs are used to load scripts: geolocation, search engines, translations, ..."
+
+msgid "Other"
+msgstr "Други"
+
+msgid "Services to display web content."
+msgstr "Services to display web content."
+
+msgid "Mandatory cookies"
+msgstr "Mandatory cookies"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "This site uses cookies necessary for its proper functioning which cannot be deactivated."

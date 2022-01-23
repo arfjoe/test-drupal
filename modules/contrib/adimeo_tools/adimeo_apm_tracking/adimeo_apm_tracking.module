@@ -1,0 +1,23 @@
+<?php
+function adimeo_apm_tracking_cron()
+{
+  /** @var \Drupal\adimeo_apm_tracking\Manager\TrackingManager $trackingManager */
+  $trackingManager = \Drupal::service('adimeo_apm_tracking.processing.manager');
+
+  /** @var \Drupal\adimeo_apm_tracking\Manager\SendingManager $sendingManager */
+  $sendingManager = \Drupal::service('adimeo_apm_tracking.sending.manager');
+
+  // Only work one time per day, wait for the day to change
+  if ($trackingManager->shouldRunCron()) {
+    $data = $trackingManager->fetchData();
+
+    $config = \Drupal::config('apm_tracking.config');
+
+    if ($config->get('apm_tracking_sending_method') === 'api') {
+      $sendingManager->sendApi($data);
+    } else {
+      $sendingManager->sendEmail($data);
+    }
+  }
+
+}

@@ -1,0 +1,11 @@
+{
+    "name": "adimeo/adimeo_apm_tracking",
+    "description": "Custom module for apm tracking",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Adimeo",
+            "email": "contact@adimeo.com"
+        }
+    ]
+}

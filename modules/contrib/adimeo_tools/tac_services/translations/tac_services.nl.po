@@ -1,0 +1,171 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-17 15:41+0200\n"
+"PO-Revision-Date: 2015-07-20 10:12+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: fr_FR\n"
+
+msgid "Hello! This site is transparent and lets you choose the 3rd party services you want to allow."
+msgstr "Hallo! Deze site is transparant en laat u de services van derden kiezen die u wilt toestaan."
+
+msgid "Please disable your adblocker to start customizing."
+msgstr "Schakel uw adblocker uit om te beginnen met aanpassen."
+
+msgid "Refresh the page"
+msgstr "Ververs de pagina"
+
+msgid "By continuing to scroll,"
+msgstr "Door te blijven scrollen,"
+
+msgid "If you continue to browse this website,"
+msgstr "Als je doorgaat met het surfen op deze website,"
+
+msgid "you are allowing all third-party services"
+msgstr "sta je alle diensten van derden toe"
+
+msgid "This site uses cookies and gives you control over what you want to activate"
+msgstr "Deze site maakt gebruik van cookies en geeft u controle over wat u wilt activeren"
+
+msgid "Manage services"
+msgstr "Beheer instellingen"
+
+msgid "Personalize"
+msgstr "Personaliseer"
+
+msgid "OK, accept all"
+msgstr "OK, accepteer alle"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+msgid "Preference for all services"
+msgstr "Voorkeur voor alle diensten"
+
+msgid "Protecting your privacy"
+msgstr "Bescherming van uw privacy"
+
+msgid "By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning."
+msgstr "Door deze services van derden toe te staan, accepteert u hun cookies en het gebruik van trackingtechnologieën die nodig zijn voor hun goede werking."
+
+msgid "Allow"
+msgstr "Toestaan"
+
+msgid "Deny"
+msgstr "Weigeren"
+
+msgid "This service does not use cookie."
+msgstr "{noCookier}"
+
+msgid "This service can install"
+msgstr "Deze service kan worden geïnstalleerd"
+
+msgid "This service has installed"
+msgstr "Deze service is geïnstalleerd"
+
+msgid "This service has not installed any cookie."
+msgstr "Deze service heeft geen cookies geïnstalleerd."
+
+msgid "Read more"
+msgstr "Lees meer"
+
+msgid "View the official website"
+msgstr "Bekijk de officiële website"
+
+msgid "Cookies manager by tarteaucitron.js"
+msgstr "Cookie manager mogelijk gemaakt door tarteaucitron.js"
+
+msgid "This website does not use any cookie requiring your consent."
+msgstr "{noServices}"
+
+msgid "Show/hide informations about cookie storage"
+msgstr "Toon/verberg informatie over cookie opslag"
+
+msgid "Cookies management panel"
+msgstr "Cookies beheer paneel"
+
+msgid "Cookie detail for"
+msgstr "Cookie detail voor"
+
+msgid "on our site"
+msgstr "op onze site"
+
+msgid "(new window)"
+msgstr "(nieuw venster)"
+
+msgid "Allow all cookies"
+msgstr "Sta alle cookies toe"
+
+msgid "Deny all cookies"
+msgstr "Weiger alle cookies"
+
+msgid "is disabled."
+msgstr "is uitgeschakeld."
+
+msgid "Advertising network"
+msgstr "Advertentienetwerk"
+
+msgid "Ad networks can generate revenue by selling advertising space on the site."
+msgstr "Advertentienetwerken kunnen inkomsten genereren door advertentieruimte op de site te verkopen."
+
+msgid "Audience measurement"
+msgstr "Bezoekers meting"
+
+msgid "The audience measurement services used to generate useful statistics attendance to improve the site."
+msgstr "De bezoekersdiensten voor het publiek worden gebruikt om nuttige statistieken te genereren om de site te verbeteren."
+
+msgid "Social networks"
+msgstr "Sociale netwerken"
+
+msgid "Social networks can improve the usability of the site and help to promote it via the shares."
+msgstr "Sociale netwerken kunnen de bruikbaarheid van de site verbeteren en helpen deze via de shares te promoten."
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Video sharing services help to add rich media on the site and increase its visibility."
+msgstr "Video sharing-services helpen om rich media op de site toe te voegen en de zichtbaarheid ervan te vergroten."
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Comments managers facilitate the filing of comments and fight against spam."
+msgstr "Commentsmanagers faciliteren het indienen van opmerkingen en het bestrijden van spam."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Support services allow you to get in touch with the site team and help to improve it."
+msgstr "Support diensten stellen u in staat contact op te nemen met het team van de site en helpen het te verbeteren."
+
+msgid "APIs"
+msgstr "APIs"
+
+msgid "APIs are used to load scripts: geolocation, search engines, translations, ..."
+msgstr "APIs worden gebruikt om scripts te laden: geolocatie, zoekmachines, vertalingen, ..."
+
+msgid "Other"
+msgstr "Overig"
+
+msgid "Services to display web content."
+msgstr "Diensten om webinhoud weer te geven."
+
+msgid "Mandatory cookies"
+msgstr "Verplichte cookies"
+
+msgid "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+msgstr "Deze site maakt gebruik van cookies die nodig zijn voor de goede werking ervan en die niet kunnen worden gedeactiveerd."

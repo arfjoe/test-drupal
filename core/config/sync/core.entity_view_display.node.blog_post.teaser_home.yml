@@ -1,0 +1,90 @@
+uuid: eb8bbff2-9ea9-4d6d-a587-aa6a2bf01cc7
+langcode: fr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser_home
+    - field.field.node.blog_post.field_body
+    - field.field.node.blog_post.field_content
+    - field.field.node.blog_post.field_image
+    - field.field.node.blog_post.field_introduction
+    - field.field.node.blog_post.field_media
+    - field.field.node.blog_post.field_sources
+    - field.field.node.blog_post.field_tags
+    - node.type.blog_post
+  module:
+    - link
+    - text
+    - user
+id: node.blog_post.teaser_home
+targetEntityType: node
+bundle: blog_post
+mode: teaser_home
+content:
+  field_body:
+    weight: 108
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_content:
+    weight: 106
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_image:
+    type: entity_reference_entity_view
+    weight: 105
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    region: content
+  field_introduction:
+    weight: 103
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_media:
+    type: entity_reference_entity_view
+    weight: 104
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    region: content
+  field_sources:
+    weight: 102
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  field_tags:
+    weight: 107
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

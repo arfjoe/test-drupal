@@ -1,0 +1,10 @@
+uuid: acea3280-f4b9-433a-b34c-14173eef2168
+langcode: fr
+status: true
+dependencies:
+  module:
+    - node
+id: node.teaser_home
+label: 'Teaser homepage'
+targetEntityType: node
+cache: true

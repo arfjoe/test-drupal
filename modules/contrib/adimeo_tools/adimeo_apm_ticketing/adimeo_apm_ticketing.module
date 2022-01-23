@@ -1,0 +1,61 @@
+<?php
+
+use Drupal\adimeo_apm_ticketing\Event\LoginEvents;
+use Drupal\adimeo_apm_ticketing\Event\LoginRequestEvent;
+use Drupal\adimeo_apm_ticketing\Manager\RenderManager;
+use Drupal\user\UserInterface;
+
+/**
+ * Implements hook_user_login().
+ * @param UserInterface $account
+ */
+function adimeo_apm_ticketing_user_login(UserInterface $account)
+{
+  /** @var \Drupal\Component\EventDispatcher\ContainerAwareEventDispatcher $service */
+  $service = \Drupal::service('event_dispatcher');
+
+  $event = new LoginRequestEvent($account);
+
+  $service->dispatch(LoginEvents::NEW_LOGIN_REQUEST, $event);
+
+}
+
+/**
+ * Implements hook_page_attachments().
+ *
+ * @param array $page
+ */
+function adimeo_apm_ticketing_page_attachments(array &$page)
+{
+  $renderManager = RenderManager::me();
+
+  $hasRights = $renderManager->checkUserRights();
+
+  if ($hasRights) {
+    $page = $renderManager->attachLibraries();
+  }
+
+  return $page;
+
+}
+
+
+/**
+ * Implements hook_preprocess_html().
+ * @param $variables
+ */
+function adimeo_apm_ticketing_preprocess_html(&$variables)
+{
+  $renderManager = RenderManager::me();
+  $hasRights = $renderManager->checkUserRights();
+
+  if ($hasRights) {
+    $variables['page_top']['ticketing-html'] = $renderManager->renderDiv();
+  }
+
+  return $variables;
+}
+
+
+
+
